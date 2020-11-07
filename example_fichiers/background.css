@@ -1,0 +1,13 @@
+canvas#sakura {
+	padding: 0;
+	margin: 0;
+	position:fixed;
+	top: 0px;
+	left: 0px;
+	z-index: -50;
+}
+
+div.span10 {
+	background-color: rgb(255, 255, 255);
+	padding-bottom: 6%;
+}
